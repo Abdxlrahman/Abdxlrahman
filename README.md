@@ -4,6 +4,10 @@ Pursuing a degree in Computer Systems Engineering at Middlesex University Dubai,
 
 🧬 Engineering Intelligent Systems | ⚡ Edge AI & IoT Developer | 🔗 Bridging Hardware + ML | 🚀 Building Real-World Impact
 
+- 🌱 Currently mastering **Cross-Platform Mobile Development (Kotlin/Capacitor)** and **Scalable IoT Architectures**.
+- 🔬 Developing **Multi-Source Data Fusion** algorithms to calculate high-accuracy health metrics (like the **Vitality Index** in BioSync).
+- ⚡ Fun fact: I built a **Smart Laundry Hanger (Zephyr)** so I’d never have to rush home to save my clothes from the rain again!
+
 ## 🛠️ Technical Skill Set
 
 | Category | Skills |
@@ -36,19 +40,11 @@ Pursuing a degree in Computer Systems Engineering at Middlesex University Dubai,
 - **Innovation:** Integrates biometric (HRV, SpO2) and environmental data to calculate a **Vitality Index** (~94% accuracy).
 - **Architecture:** Privacy-first edge computing with controlled cloud sync.
 
-### 💬 Languages
-| Language | Proficiency |
-| :--- | :--- |
-| **English** | ![Proficient](https://img.shields.io/badge/-Proficient-blue?style=flat-square) |
-| **Hindi** | ![Native](https://img.shields.io/badge/-Native-success?style=flat-square) |
-| **Urdu** | ![Native](https://img.shields.io/badge/-Native-success?style=flat-square) |
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-rahman-abdul-aleem-55b185304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdxlrahman04@gmail.com) 
 
 ## 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=abdxlrahman&theme=dark&hide_border=false)<br/>
+            ![](https://streak-stats.demolab.com/?user=abdxlrahman&theme=dark&hide_border=false)<br/>
 
 
 
