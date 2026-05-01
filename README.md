@@ -17,6 +17,7 @@ Computer Systems Engineering student specializing in Embedded AI & Machine Learn
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdxlrahman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🚀 Key Projects
 ### 🧥 [Zephyr Smart Laundry - IoT Automated Hanger](https://github.com/your-username/Zephyr)
 
 *A smart home automation system designed to optimize laundry drying using real-time environmental sensing.*
