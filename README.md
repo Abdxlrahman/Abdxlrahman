@@ -2,7 +2,7 @@
 # 💫 About Me:
 Computer Systems Engineering student specializing in Embedded AI & Machine Learning. I build intelligent IoT systems and edge AI solutions that transform real-world data into actionable insights.
 
-### 🛠️ Technical Skill Set
+## 🛠️ Technical Skill Set
 
 | Category | Skills |
 | :--- | :--- |
@@ -13,7 +13,7 @@ Computer Systems Engineering student specializing in Embedded AI & Machine Learn
 | **Design & Tools**| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) |
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdxlrahman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
