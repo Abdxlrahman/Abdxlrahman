@@ -2,7 +2,6 @@
 # 💫 About Me:
 Computer Systems Engineering student specializing in Embedded AI & Machine Learning. I build intelligent IoT systems and edge AI solutions that transform real-world data into actionable insights.
 
-# 💻 Tech Stack:
 ### 🛠️ Technical Skill Set
 
 | Category | Skills |
