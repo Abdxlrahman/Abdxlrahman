@@ -17,18 +17,22 @@ Computer Systems Engineering student specializing in Embedded AI & Machine Learn
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdxlrahman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🧥 **Zephyr Smart Laundry - IoT Automated Hanger**
-A smart home automation system designed to optimize laundry drying using real-time environmental sensing.
+### 🧥 [Zephyr Smart Laundry - IoT Automated Hanger](https://github.com/your-username/Zephyr)
+
+*A smart home automation system designed to optimize laundry drying using real-time environmental sensing.*
+
 - **Core Tech:** Arduino/ESP32, DHT11 Humidity Sensors, Servo Motors, Weather API Integration.
 - **Innovation:** Automated retraction and notification system that protects laundry from sudden rain or over-exposure to UV.
-- **Automation:** Intelligent scheduling algorithms that calculate optimal drying times based on live sensor feedback and local weather forecasts.
+- **Automation:** Intelligent scheduling algorithms that calculate optimal drying times based on live sensor feedback.
 
-🧬 BioSync - AI-Powered Mobile Health Companion
-Context-aware health monitoring using multi-source data fusion.
-Core Tech: Capacitor, Kotlin, MQTT, Supabase.
-Innovation: Integrates biometric (HRV, SpO2) and environmental data to calculate a Vitality Index (~94% accuracy).
+### 🧬 [BioSync - AI-Powered Mobile Health Companion](https://github.com/your-username/BioSync)
 
-Architecture: Privacy-first edge computing with controlled cloud sync.
+*Context-aware health monitoring using multi-source data fusion.*
+
+- **Core Tech:** Capacitor, Kotlin, MQTT, Supabase.
+- **Innovation:** Integrates biometric (HRV, SpO2) and environmental data to calculate a **Vitality Index** (~94% accuracy).
+- **Architecture:** Privacy-first edge computing with controlled cloud sync.
+
 ### 💬 Languages
 | Language | Proficiency |
 | :--- | :--- |
