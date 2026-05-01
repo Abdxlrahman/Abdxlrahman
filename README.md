@@ -2,7 +2,7 @@
 # 💫 About Me:
 Pursuing a degree in Computer Systems Engineering at Middlesex University Dubai, I concentrate on the fusion of intelligent algorithms with embedded hardware. My work revolves around developing smart, connected systems—from AI-powered edge devices to automated IoT solutions—that address real-world challenges through efficient and scalable design.
 
-            🧬 Engineering Intelligent Systems | ⚡ Edge AI & IoT Developer | 🔗 Bridging Hardware + ML | 🚀 Building Real-World Impact
+🧬 Engineering Intelligent Systems | ⚡ Edge AI & IoT Developer | 🔗 Bridging Hardware + ML | 🚀 Building Real-World Impact
 
 ## 🛠️ Technical Skill Set
 
