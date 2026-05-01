@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-Computer Systems Engineering student specializing in Embedded AI & Machine Learning. I build intelligent IoT systems and edge AI solutions that transform real-world data into actionable insights.
-
+Computer Systems Engineering student focused on Embedded AI and Machine Learning, building smart IoT and real-time automation systems.
+🧬 Engineering Intelligent Systems | ⚡ Edge AI & IoT Developer | 🔗 Bridging Hardware + ML | 🚀 Building Real-World Impact
 ## 🛠️ Technical Skill Set
 
 | Category | Skills |
