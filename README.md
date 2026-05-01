@@ -1,4 +1,18 @@
 ## Hi there 
+<div align="center">
+
+<!-- This is your custom banner -->
+![Abdul Rahman Banner](file:///C:/Users/abdxl/.gemini/antigravity/brain/7660ab59-79cb-4b57-be6b-f6dec0af0787/abdul_rahman_github_banner_1777679283551.png)
+
+# Computer Science Engineering Student | IoT & Mobile Development
+
+**Bridging the gap between hardware and software through intelligent, real-world IoT solutions.**
+
+---
+
+</div>
+
+
 # 💫 About Me:
 Pursuing a degree in Computer Systems Engineering at Middlesex University Dubai, I concentrate on the fusion of intelligent algorithms with embedded hardware. My work revolves around developing smart, connected systems—from AI-powered edge devices to automated IoT solutions—that address real-world challenges through efficient and scalable design.
 
