@@ -47,7 +47,7 @@ Pursuing a degree in Computer Systems Engineering at Middlesex University Dubai,
 - **Innovation:** Automated retraction and notification system that protects laundry from sudden rain or over-exposure to UV.
 - **Automation:** Intelligent scheduling algorithms that calculate optimal drying times based on live sensor feedback.
 
-### 🧬 [BioSync - AI-Powered Mobile Health Companion](https://github.com/your-username/BioSync)
+### 🧬 [BioSync - AI-Powered Mobile Health Companion](https://github.com/Abdxlrahman/Bio-Sync)
 
 *Context-aware health monitoring using multi-source data fusion.*
 
