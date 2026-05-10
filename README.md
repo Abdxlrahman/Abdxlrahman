@@ -55,13 +55,14 @@ Pursuing a degree in Computer Systems Engineering at Middlesex University Dubai,
 - **Innovation:** Integrates biometric (HRV, SpO2) and environmental data to calculate a **Vitality Index** (~94% accuracy).
 - **Architecture:** Privacy-first edge computing with controlled cloud sync.
 
-### 🐾 SmartPaws - AI-Powered Pet Care Ecosystem
+### 🐾 [SmartPaws - AI-Powered Pet Care Ecosystem](https://github.com/Abdxlrahman/SmartPaws)
 
 *A revolutionary, real-time pet care platform that optimizes feeding routines using machine learning.*
 
-- **Core Tech**: Next.js 15, React 19, Supabase, OpenAI, Scikit-Learn.
-- **Innovation**: High-precision weight sensors combined with a Neural-ML engine to optimize nutrition and reduce food waste.
-- **Architecture**: Modern App Router design with real-time Telegram alert integration and Glassmorphism UI.
+- **Core Tech:** Next.js 15, React 19, Supabase, OpenAI, Scikit-Learn.
+- **Innovation:** High-precision weight sensors combined with a **Neural-ML engine** to optimize nutrition and reduce food waste.
+- **Architecture:** Modern App Router design with real-time Telegram alert integration and Glassmorphism UI.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-rahman-abdul-aleem-55b185304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdxlrahman04@gmail.com) 
